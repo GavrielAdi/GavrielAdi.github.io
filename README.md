@@ -1,4 +1,4 @@
-#vue-calculator
+# vue-calculator
 Gavriel Pramuda Kurniaadi
 5027221031
 ```
