@@ -1,6 +1,6 @@
-# vue-calculator
-Gavriel Pramuda Kurniaadi
-5027221031
+# Simple Calculator with Vue
+Gavriel Pramuda Kurniaadi <br>
+5027221031 <br>
 Kelas B
 
 ## Link Website (Github Page)
