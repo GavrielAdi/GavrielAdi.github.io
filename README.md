@@ -5,7 +5,7 @@ Kelas B
 
 ## Link Website (Github Page)
 
-https://gavrieladi.github.io/
+https://gavrieladi.github.io/vue-calculator/
 
 ## Link Website (Vercel)
 
