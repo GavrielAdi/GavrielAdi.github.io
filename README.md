@@ -1,9 +1,16 @@
 # vue-calculator
 Gavriel Pramuda Kurniaadi
 5027221031
-```
-npm install
-```
-```
-npm run dev
-```
+Kelas B
+
+## Link Website (Github Page)
+
+https://gavrieladi.github.io/
+
+## Link Website (Vercel)
+
+https://vue-calculator-chi.vercel.app/
+
+## Link Website (Netlify)
+
+https://vue-calculator-31.netlify.app/
